@@ -31,7 +31,7 @@ We're seeking to develop a clone of OneTimeSecret.com using Go. This application
 
 ### 3.3 Security
 
-- Use strong encryption for storing secrets (e.g., AES-256)
+- Use AES-256 encryption for storing secrets
 - Implement secure random generation for secret keys and passwords
 - Ensure all communications are over HTTPS
 - Implement rate limiting to prevent brute-force attacks
